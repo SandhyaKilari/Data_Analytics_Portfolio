@@ -5,7 +5,7 @@ Detail-oriented professional with hands-on experience in data analysis, software
 🔗 Portfolio: sandhyakilari.portfo.ly
 
 Explore my portfolio to view:
-	•	Data Science Projects: Machine learning models, data visualization dashboards, and predictive analytics solutions.
-	•	Software Development Work: Full-stack applications, automated workflows, and cloud-based integrations.
-	•	Technical Skills Showcase: Code samples, project documentation, and problem-solving approaches.
-	•	Professional Achievements: Certifications, presentations, and industry recognition.
+
+- Data Science Projects: Machine learning models, data visualization dashboards, and predictive analytics solutions.
+- Software Development Work: Full-stack applications, automated workflows, and cloud-based integrations.
+- Technical Skills Showcase: Code samples, project documentation, and problem-solving approaches.
